@@ -1,2 +1,0 @@
-# Siika
-Sistem Informasi Kampung
